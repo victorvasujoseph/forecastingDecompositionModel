@@ -1,5 +1,4 @@
-# Forecasting and Decomposition with Model
-Forecasting with Decomposition Models using statsmodels
+# Forecasting and Decomposition with statsmodels
 
 Let's perform the decomposition and forecasting together using the ARIMA model for forecasting the Google stock prices. We'll decompose the time series into trend, seasonal, and residual components and then use the ARIMA model to forecast future values.
 
