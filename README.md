@@ -19,3 +19,6 @@ Let's perform the decomposition and forecasting together using the ARIMA model f
 By decomposing the time series and using the ARIMA model to forecast the residuals, we can capture both the systematic and random components of the time series. This approach provides a more accurate and comprehensive forecast by leveraging the strengths of both decomposition and ARIMA modeling.
 
 
+<img src="images/1.png" alt="My Image" width="700"/>
+<img src="images/2.png" alt="My Image" width="700"/>
+<img src="images/3.png" alt="My Image" width="700"/>
