@@ -8,7 +8,7 @@ Let's perform the decomposition and forecasting together using the ARIMA model f
 2.  Decomposing the Time Series: The seasonal_decompose function is used to decompose the time series into trend, seasonal, and residual components.
 3.  Plotting ACF and PACF: These plots help identify the order of the ARIMA model by showing the autocorrelation and partial autocorrelation of the residuals.
 4.  Fitting the ARIMA Model: The ARIMA model is fit to the residuals. Here, (5, 1, 0) is used as an example; you should choose the order based on ACF and PACF plots.
-5.  Forecasting: The model is used to forecast the residuals for the next 90 days.
+5.  Forecasting: The model is used to forecast the residuals for the next 365 days.
 6.  Combining Forecasts: The forecasted residuals are combined with the last observed trend and seasonal components to get the final forecasted values.
 7.  Plotting the Forecast: The forecast and its confidence interval are plotted along with the last year of observed data.
 8.  Residual Analysis: The residuals of the ARIMA model are plotted to check for any remaining structure.
